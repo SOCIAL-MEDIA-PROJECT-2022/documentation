@@ -6,6 +6,8 @@ This feature allows you to search for registered users of the web application.
 
 
 ## Authors
+- Mat Mayers
+- Hector Rios
 - Gordon Ramsbottom
 - James Walker
 
